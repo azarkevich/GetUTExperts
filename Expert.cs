@@ -1,4 +1,4 @@
-﻿namespace DetectTestExperts
+﻿namespace GetUTExperts
 {
 	class Expert
 	{

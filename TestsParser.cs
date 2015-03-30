@@ -6,7 +6,7 @@ using System.Text;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
-namespace DetectTestExperts
+namespace GetUTExperts
 {
 	class TestsParser
 	{

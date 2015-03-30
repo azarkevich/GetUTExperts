@@ -7,8 +7,8 @@
     <ProjectGuid>{14038895-6881-4AB3-9690-83E95F5E1F5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DetectTestExperts</RootNamespace>
-    <AssemblyName>DetectTestExperts</AssemblyName>
+    <RootNamespace>GetUTExperts</RootNamespace>
+    <AssemblyName>GetUTExperts</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

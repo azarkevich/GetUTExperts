@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using SharpSvn;
 
-namespace DetectTestExperts
+namespace GetUTExperts
 {
 	class ExpertsDetector
 	{

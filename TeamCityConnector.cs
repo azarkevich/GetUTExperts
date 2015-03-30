@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Xml;
 
-namespace DetectTestExperts
+namespace GetUTExperts
 {
 	class TeamCityConnector
 	{

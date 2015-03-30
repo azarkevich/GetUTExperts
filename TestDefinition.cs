@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using SharpSvn;
 
-namespace DetectTestExperts
+namespace GetUTExperts
 {
 	class TestDefinition
 	{
